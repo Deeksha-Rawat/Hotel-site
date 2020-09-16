@@ -30,6 +30,9 @@
   
   .navbar-inverse {
     background-color: #512DA8; }
+.navbar-dark {
+    background-color:#512DAB;
+}
   
   .tab-content {
     border-left: 1px solid #ddd;
